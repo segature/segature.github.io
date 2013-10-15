@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://segature.github.io/sitemap.xml 
